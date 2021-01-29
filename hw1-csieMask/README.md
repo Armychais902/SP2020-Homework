@@ -99,3 +99,10 @@ Operation failed.
 ```
 and close the connection from client.
 
+## Contributions
+
+- TA handled the initial part of socket programming in ```server.c```
+
+- My contributions in ```server.c``` is listed below:
+    - line 64-182
+    - line 196-336
