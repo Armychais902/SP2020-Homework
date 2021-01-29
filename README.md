@@ -3,8 +3,8 @@ System Programming, Fall 2020
 
 ## Introduction
 My programming homework in SP lecture in NTU CSIE:
-- Programming homework 1 - csieMask
-- Programming homework 2 - auction system
+- Programming homework 1 - csieMask (upload 20210129)
+- Programming homework 2 - auction system (upload 20210129)
 - Programming homework 3 - pseudothread
 - Programming homework 4 - password cracker
 
